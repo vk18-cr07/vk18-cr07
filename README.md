@@ -1,4 +1,4 @@
-# 💻 Software Developer
+# Software Developer
 
 Web Development • Mobile Development • AI & Technology
 
